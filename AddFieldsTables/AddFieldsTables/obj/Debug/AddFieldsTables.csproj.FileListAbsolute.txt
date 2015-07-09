@@ -1,0 +1,10 @@
+D:\projects\AddFieldsTables\AddFieldsTables\obj\Debug\ResolveAssemblyReference.cache
+D:\projects\AddFieldsTables\AddFieldsTables\obj\Debug\AddFieldsTables.Form1.resources
+D:\projects\AddFieldsTables\AddFieldsTables\obj\Debug\AddFieldsTables.Properties.Resources.resources
+D:\projects\AddFieldsTables\AddFieldsTables\obj\Debug\AddFieldsTables.csproj.GenerateResource.Cache
+D:\projects\AddFieldsTables\AddFieldsTables\bin\Debug\AddFieldsTables.exe
+D:\projects\AddFieldsTables\AddFieldsTables\bin\Debug\AddFieldsTables.pdb
+D:\projects\AddFieldsTables\AddFieldsTables\obj\Debug\AddFieldsTables.exe
+D:\projects\AddFieldsTables\AddFieldsTables\obj\Debug\AddFieldsTables.pdb
+F:\projects\AddFieldsTables\AddFieldsTables\obj\Debug\AddFieldsTables.exe
+F:\projects\AddFieldsTables\AddFieldsTables\obj\Debug\AddFieldsTables.pdb
